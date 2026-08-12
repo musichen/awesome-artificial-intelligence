@@ -144,6 +144,20 @@ Tools that parse repositories into queryable knowledge graphs, giving AI coding 
 - [Joern](https://github.com/joernio/joern): A mature Code Property Graph engine combining AST, data-flow, control-flow, and call information for deep structural analysis.
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): The classic interactive source-code graph explorer and navigator, archived but still an important UX reference for codebase visualisation.
 - [Codeflow](https://github.com/braedonsaunders/codeflow): A browser-only architecture map from GitHub URLs or local files with blast-radius and ownership views.
+- [CodeCharta](https://github.com/MaibornWolff/codecharta): An open-source 3D code city visualisation from static analysis metrics, rendering architecture, hotspots, and technical debt interactively.
+- [RepoWise](https://github.com/repowise-dev/repowise): A self-hostable codebase intelligence platform with tree-sitter graphs, git analytics, auto-wiki, code health, dead-code detection, and MCP tools.
+- [Neo4j LLM Graph Builder](https://github.com/neo4j-labs/llm-graph-builder): A generic documents-to-knowledge-graph system useful for combining source code, documentation, and tickets into one project graph.
+- [Code2flow](https://github.com/scottrogowski/code2flow): Generates function and call graphs from source code for execution-flow understanding.
+- [Emerge](https://github.com/glato/emerge): A browser-based interactive codebase and dependency visualisation tool for multiple languages with code-quality and graph metrics.
+- [GRASP](https://github.com/ashfordeOU/grasp): An architecture and code intelligence system with dependency graphs, knowledge graphs, git change-impact analysis, ORM relationships, and MCP integration.
+- [Code-Graph-RAG](https://github.com/vitali87/code-graph-rag): A Tree-sitter and Memgraph repository knowledge graph with GraphRAG, combining deterministic static analysis with semantic AI reasoning.
+- [RepoGraph](https://github.com/ozyyshr/RepoGraph): A research-oriented repository graph designed to give AI software-engineering agents repo-level structural context.
+- [RepoBrain](https://github.com/study8677/repobrain): A persistent codebase intelligence layer targeting Claude Code, Cursor, Codex, Windsurf, and similar agents.
+- [Cortex](https://github.com/pedropacheco95/cortex): A Tree-sitter and TypeScript knowledge graph for persistent repository understanding, preventing agents from rediscovering structure every session.
+- [CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext): An MCP server and CLI with tree-sitter and SCIP indexing into a graph database, queryable by AI coding assistants.
+- [CodeGraphMCPServer](https://github.com/nahisaho/CodeGraphMCPServer): A lightweight zero-config MCP server with tree-sitter graphs and GraphRAG community detection.
+- [Arkit](https://github.com/dyatko/arkit): A static analysis tool generating architecture diagrams in SVG, PNG, and PlantUML for JavaScript, TypeScript, Vue, and Nuxt projects.
+- [Gephi](https://github.com/gephi/gephi): An open-source graph visualisation and interactive network analysis platform for complex dataset mapping.
 
 ### Evals and reliability
 
@@ -182,6 +196,17 @@ Coding agents help developers plan, implement, review, test, and debug software.
 - [OpenHuman](https://github.com/tinyhumansai/openhuman): An open-source agent from TinyHumans designed for autonomous task execution and coding workflows.
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent): An open-source terminal agent from Nous Research with built-in memory, plugins, a web dashboard, and extensive community resources.
 - [ElizaOS](https://github.com/elizaOS/eliza): An agentic operating system and framework for building, deploying, and managing autonomous AI agents.
+- [Goose](https://github.com/aaif-goose/goose): Block's open-source local agent with desktop and CLI modes, MCP tools, coding, automation, and research capabilities.
+- [Qwen Code](https://github.com/QwenLM/qwen-code): Alibaba's terminal coding agent optimised for Qwen-Coder with large codebase understanding and shell tools.
+- [Roo Code](https://github.com/RooCodeInc/Roo-Code): A Cline-family editor agent with Code, Architect, Ask, Debug, and Orchestrator modes for multi-agent-style workflows.
+- [Kilo Code](https://github.com/kilo-org/kilocode): An agentic engineering platform with CLI and editor modes, Architect and Orchestrator roles, and an MCP marketplace.
+- [Tabby](https://github.com/TabbyML/tabby): A self-hosted open-source coding assistant with private autocomplete and chat for enterprise and local codebases.
+- [Kimi Code CLI](https://github.com/MoonshotAI/kimi-cli): Moonshot's terminal coding agent with code edits, shell commands, web search, and planning workflows.
+- [Mistral Vibe](https://github.com/mistralai/mistral-vibe): Mistral's lightweight CLI coding assistant for terminal workflows with Mistral models.
+- [DeepSeek Deep Code](https://github.com/lessweb/deepcode-cli): A DeepSeek-focused terminal coding assistant for reasoning-heavy code tasks and shell operations.
+- [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI): A DeepSeek-first terminal TUI agent with shell, file edits, git, web search, MCP, and sub-agent features.
+- [VT Code](https://github.com/vinhnx/vtcode): A Rust semantic terminal coding agent with Tree-sitter, ast-grep, shell safety, multi-provider fallback, and Zed ACP integration.
+- [crow](https://github.com/crow-cli/crow-cli): A minimal ACP-native Python coding agent serving as a reference implementation for the Agent Client Protocol architecture.
 - [Kobolds Agent](https://kobolds.run): A lightweight coding agent built with Bun, Elysia, and Pi Agent Core.
 
 ### Coding agent extensions
@@ -295,6 +320,10 @@ Session viewers, history browsers, task managers, and observability tools that c
 - [Composio](https://composio.dev): A tooling platform for connecting AI agents to external APIs, services, and actions.
 - [Robobun](https://github.com/robobun): A fork of Bun.js rewritten from Zig to Rust using coding agents, demonstrating large-scale agent-driven language migration.
 - [DS4](https://github.com/antirez/ds4): A packaged, locally runnable DeepSeek V4 Flash model for private inference.
+- [Vercel Agent Browser](https://github.com/vercel-labs/agent-browser): A Rust browser automation CLI for agents, useful as a tool component for coding and browser-control agents.
+- [Claudable](https://github.com/opactorai/Claudable): An open-source Lovable-like builder using local CLI agents such as Claude Code, Codex, Gemini, Qwen, and Cursor.
+- [Vibe Tools](https://github.com/eastlondoner/vibe-tools): An extra tool layer for Cursor and agent workflows with GitHub integrations and multi-agent helper commands.
+- [ACP Bridge](https://github.com/allvegetable/acp-bridge): An ACP bridge for connecting different coding agents and clients, useful for custom unified agent UIs.
 
 ### Protocols and integration
 
