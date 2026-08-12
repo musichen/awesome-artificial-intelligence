@@ -2,7 +2,7 @@
 
 An opinionated, actively maintained collection of resources for software developers learning to build and ship generative AI and agentic systems.
 
-![Artificial intelligence](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
+![Artificial intelligence](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqbWIxYXJxNmphN2l2d2F5ZWZjdjd1YWF0cmN5OGwxYmd0eHlkbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ABVK96HgZvWI9SBbXr/giphy.gif)
 
 This list is for developers who want to:
 
