@@ -66,6 +66,7 @@ The list is reviewed weekly by an evidence-backed automation that independently 
 - [A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): OpenAI's guide to models, tools, instructions, orchestration, and guardrails.
 
 ### LLM application engineering
+- [AI Group Call](https://aigroupcall.app) - You set a goal and two to eight AI voices run a round-table call with you: drop-ins, barge-in, and a written recap.
 
 - [OpenAI Cookbook](https://cookbook.openai.com/): Code examples for structured outputs, tool use, retrieval, evals, and other LLM application patterns.
 - [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview): Techniques for defining success criteria, testing prompts, and improving model behaviour.
