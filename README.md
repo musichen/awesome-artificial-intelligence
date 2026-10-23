@@ -15,6 +15,19 @@ This is not a comprehensive directory of AI products. Every entry must clear an 
 
 The list is reviewed weekly by an evidence-backed automation that independently reviews, validates, and merges small changes. See [how resources are evaluated](CURATION.md).
 
+## Contributing
+
+Contributions are welcome. To add a resource:
+
+1. Choose the section it belongs in (for example Learn, or Build AI systems) and the closest subsection.
+2. Add one entry per pull request, in the same format as the neighbouring entries: `- [Title](url): Short, factual description.`
+3. Prefer primary sources (official docs, the paper, or the project repo) over roundups.
+4. Keep descriptions to one or two sentences and check that the link is public and reachable.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ## Learn
 
 ### Books
